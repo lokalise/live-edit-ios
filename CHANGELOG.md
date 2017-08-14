@@ -1,3 +1,13 @@
+## 0.1.3 Release notes (14-08-2017)
+
+### Fixes
+
+- UITabBar now provides proper keys.
+
+### Other
+
+- Connect button refinements.
+
 ## 0.1.2 Release notes (10-08-2017)
 
 ### Fixes
