@@ -1,3 +1,9 @@
+## 0.1.4 Release notes (17-08-2017)
+
+### Fixes
+
+- CocoaPods `rpath` on device crash fix.
+
 ## 0.1.3 Release notes (14-08-2017)
 
 ### Fixes
