@@ -1,3 +1,9 @@
+## 0.1.5 Release notes (01-09-2017)
+
+### Other
+
+- Automatic key picking improved.
+
 ## 0.1.4 Release notes (17-08-2017)
 
 ### Fixes
