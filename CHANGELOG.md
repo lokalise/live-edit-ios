@@ -1,3 +1,9 @@
+## 0.1.6 Release notes (05-09-2017)
+
+### Fixes
+
+- `LokaliseEnableShakeGesture` no longer ignored.
+
 ## 0.1.5 Release notes (01-09-2017)
 
 ### Other
