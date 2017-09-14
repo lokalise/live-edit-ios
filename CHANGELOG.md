@@ -1,3 +1,13 @@
+## 0.1.7 Release notes (14-09-2017)
+
+### New
+
+- Swift 4.0 support.
+
+### Fixes
+
+- `liveModeState`  is now available in Objective-C.
+
 ## 0.1.6 Release notes (05-09-2017)
 
 ### Fixes

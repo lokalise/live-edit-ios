@@ -1,3 +1,4 @@
 framework module LokaliseLiveEdit {
     header "LokaliseLiveEdit-Swift.h"
+    requires objc
 }
