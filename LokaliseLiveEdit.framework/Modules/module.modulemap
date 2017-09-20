@@ -1,3 +1,10 @@
 framework module LokaliseLiveEdit {
+  umbrella header "LokaliseLiveEdit.h"
+
+  export *
+  module * { export * }
+}
+
+module LokaliseLiveEdit.Swift {
     header "LokaliseLiveEdit-Swift.h"
 }

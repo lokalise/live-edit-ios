@@ -139,6 +139,12 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
 #pragma clang diagnostic ignored "-Wduplicate-method-arg"
+typedef SWIFT_ENUM(NSInteger, LiveModeState) {
+  LiveModeStateOnline = 0,
+  LiveModeStateConnecting = 1,
+  LiveModeStateOffline = 2,
+};
+
 
 SWIFT_PROTOCOL("_TtP16LokaliseLiveEdit20LokaliseKeysProvider_")
 @protocol LokaliseKeysProvider <NSObject>
@@ -152,6 +158,7 @@ SWIFT_CLASS("_TtC16LokaliseLiveEdit16LokaliseLiveEdit")
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LokaliseLiveEdit * _Nonnull shared;)
 + (LokaliseLiveEdit * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 @property (nonatomic) BOOL isShakeGestureEnabled;
+@property (nonatomic, readonly) enum LiveModeState liveModeState;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 - (void)useWithLokaliseFramework:(Lokalise * _Nonnull)lokaliseFramework;
 - (void)presentDebugViewController;
