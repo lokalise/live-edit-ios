@@ -7,4 +7,5 @@ framework module LokaliseLiveEdit {
 
 module LokaliseLiveEdit.Swift {
     header "LokaliseLiveEdit-Swift.h"
+    requires objc
 }

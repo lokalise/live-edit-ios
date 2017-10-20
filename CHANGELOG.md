@@ -1,3 +1,14 @@
+## 0.2.1 Relase notes (20-09-2017)
+
+### Fixes
+
+- Live mode status details fixed.
+- Debug view controller insets on iPhone X fixed.
+
+### Breaking changes
+
+- Updated to Swift 4.
+
 ## 0.1.7 Release notes (20-09-2017)
 
 ### Fixes
