@@ -1,3 +1,9 @@
+## 0.2.2 Relase notes (02-10-2017)
+
+### Breaking changes
+
+- Updated to Swift 4.0.2 and Xcode 9.1.
+
 ## 0.2.1 Relase notes (20-09-2017)
 
 ### Fixes
