@@ -1,3 +1,12 @@
+## 0.2.4 Release notes (19-01-2018)
+
+### Other
+
+- Improved camera initialization time.
+- Improved screen update mechanism.
+- Added more configuration checks.
+- Updated Lokalise SDK dependency.
+
 ## 0.2.3 Release notes (10-10-2017)
 
 ### Fixes
