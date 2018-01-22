@@ -1,3 +1,9 @@
+## 0.2.5 Release notes (22-01-2018)
+
+### New
+
+- `LokaliseStringExtractable` protocol is now available. Add support for your custom UI elements.
+
 ## 0.2.4 Release notes (19-01-2018)
 
 ### Other

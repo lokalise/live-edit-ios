@@ -213,6 +213,10 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LokaliseLive
 @end
 
 
+SWIFT_PROTOCOL("_TtP16LokaliseLiveEdit25LokaliseStringExtractable_")
+@protocol LokaliseStringExtractable <NSObject>
+- (NSString * _Nullable)extractString SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
 
@@ -233,8 +237,19 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LokaliseLive
 
 
 
+@interface UILabel (SWIFT_EXTENSION(LokaliseLiveEdit)) <LokaliseStringExtractable>
+- (NSString * _Nullable)extractString SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
+@interface UITextField (SWIFT_EXTENSION(LokaliseLiveEdit)) <LokaliseStringExtractable>
+- (NSString * _Nullable)extractString SWIFT_WARN_UNUSED_RESULT;
+@end
+
+
+@interface UITextView (SWIFT_EXTENSION(LokaliseLiveEdit)) <LokaliseStringExtractable>
+- (NSString * _Nullable)extractString SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
 
