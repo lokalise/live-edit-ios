@@ -1,3 +1,15 @@
+## 0.2.7 Release notes (04-04-2018)
+
+### Breaking changes
+
+- Updated to Swift 4.1 and Xcode 9.3.
+
+## 0.2.6 Release notes (25-01-2018)
+
+### Fixes
+
+- Fixed keys with empty value getting asigned to every translation.
+
 ## 0.2.5 Release notes (22-01-2018)
 
 ### New
