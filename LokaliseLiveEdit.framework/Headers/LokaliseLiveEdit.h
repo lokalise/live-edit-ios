@@ -9,6 +9,4 @@
 #ifndef LokaliseLiveEdit_h
 #define LokaliseLiveEdit_h
 
-#import "LokaliseCryptoHelper.h"
-
 #endif /* LokaliseLiveEdit_h */

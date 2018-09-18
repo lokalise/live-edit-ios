@@ -1,3 +1,9 @@
+## 0.3.0 Release notes (18-09-2018)
+
+### Breaking changes
+
+- Updated to Swift 4.2 and Xcode 10.0.
+
 ## 0.2.7 Release notes (04-04-2018)
 
 ### Breaking changes
