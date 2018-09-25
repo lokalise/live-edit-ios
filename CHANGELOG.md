@@ -1,3 +1,9 @@
+## 0.3.1 Release notes (25-09-2018)
+
+### Other
+
+- Full bitcode support.
+
 ## 0.3.0 Release notes (18-09-2018)
 
 ### Breaking changes
