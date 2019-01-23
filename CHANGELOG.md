@@ -1,3 +1,9 @@
+## 0.4.0 Release notes (23-01-2019)
+
+### Other
+
+- Lokalise 0.9.0 support.
+
 ## 0.3.1 Release notes (25-09-2018)
 
 ### Other
