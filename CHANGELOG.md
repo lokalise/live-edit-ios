@@ -1,3 +1,13 @@
+## 0.4.1 Release notes (19-03-2019)
+
+### Fixes
+
+- Added `AVFoundation` as dependency for CocoaPods.
+
+### Other
+
+- Lokalise 0.10.0 support.
+
 ## 0.4.0 Release notes (23-01-2019)
 
 ### Other
