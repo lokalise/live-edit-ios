@@ -1,3 +1,9 @@
+## 0.5.1 Release notes (01-08-2019)
+
+### New
+
+- `LokaliseDisplayedViewControllerProvider` protocol is now available. Help the SDK find displaye view controller.
+
 ## 0.5.0 Release notes (27-03-2019)
 
 ### Breaking changes
