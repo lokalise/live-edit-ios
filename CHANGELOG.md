@@ -1,3 +1,9 @@
+## 0.5.2 Release notes (23-09-2019)
+
+### Breaking changes
+
+- Swift 5.1 support.
+
 ## 0.5.1 Release notes (01-08-2019)
 
 ### New
