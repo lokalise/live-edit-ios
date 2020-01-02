@@ -1,3 +1,9 @@
+## 0.5.4 Release notes (02-01-2020)
+
+### Fixes
+
+- Added `tintColor` to Navigation Bar in Debug View Controller.
+
 ## 0.5.3 Release notes (10-11-2019)
 
 ### Breaking changes
@@ -14,7 +20,7 @@
 
 ### New
 
-- `LokaliseDisplayedViewControllerProvider` protocol is now available. Help the SDK find displaye view controller.
+- `LokaliseDisplayedViewControllerProvider` protocol is now available. Help the SDK find displayed view controller.
 
 ## 0.5.0 Release notes (27-03-2019)
 
