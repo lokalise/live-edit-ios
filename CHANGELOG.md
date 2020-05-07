@@ -1,4 +1,14 @@
-## 0.5.5 Release notes (25-03-2019)
+## 0.6.0 Release notes (07-05-2020)
+
+### Other
+
+- Improved language with regions support.
+
+### Breaking changes
+
+- Swift 5.2.2 support.
+
+## 0.5.5 Release notes (25-03-2020)
 
 ### Breaking changes
 
