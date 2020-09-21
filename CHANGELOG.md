@@ -1,3 +1,10 @@
+## 0.6.1 Release notes (21-09-2020)
+
+### Breaking changes
+
+- Swift 5.3 support.
+- Minimum iOS deployment target set to 9.
+
 ## 0.6.0 Release notes (07-05-2020)
 
 ### Other
