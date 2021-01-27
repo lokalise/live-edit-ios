@@ -1,3 +1,9 @@
+## 0.6.2 Release notes (27-01-2021)
+
+### Breaking changes
+
+- Swift 5.3.2 support.
+
 ## 0.6.1 Release notes (21-09-2020)
 
 ### Breaking changes
