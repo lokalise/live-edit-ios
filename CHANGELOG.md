@@ -1,3 +1,10 @@
+## 0.7.0 Release notes (03-04-2021)
+
+### Breaking changes
+
+- Swift 5.4 support.
+- Internal Swift version updated.
+
 ## 0.6.2 Release notes (27-01-2021)
 
 ### Breaking changes
